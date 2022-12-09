@@ -6,8 +6,7 @@ Apillon changes the way developers think and build the decentralized future. Wit
 
 Join in on our journey and get the chance to win a Christmas present in the form of Apillon’s merch bundle. Or should we say stocking?
 
-
-Get the Apillon socks,
+`Get the Apillon socks,
 don't be such a Grinch,
 they be so thick,
 you will grow an inch.
@@ -15,12 +14,13 @@ you will grow an inch.
 All you gotta do,
 is request a git pull,
 sign up for some merch
-and everything is cool.
+and everything is cool.`
+
 
 ## How to get in the mix for Apillon swag?
 Follow the steps below:
 
-1. Register an account on app.apillon.io
+1. Register an account on [app.apillon.io/register](app.apillon.io/register)
 2. Log in with your new account.
 3. Copy the referral code displayed at the bottom of the welcome page.
 4. Create a pull request with your Github account on the following repo.
