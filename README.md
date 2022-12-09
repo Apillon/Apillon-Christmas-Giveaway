@@ -6,16 +6,6 @@ Apillon changes the way developers think and build the decentralized future. Wit
 
 Join in on our journey and get the chance to win a Christmas present in the form of Apillon’s merch bundle. Or should we say stocking?
 
-`Get the Apillon socks,
-don't be such a Grinch,
-they be so thick,
-you will grow an inch.
-
-All you gotta do,
-is request a git pull,
-sign up for some merch
-and everything is cool.`
-
 
 ## How to get in the mix for Apillon swag?
 Follow the steps below:
@@ -36,6 +26,9 @@ Snow time like the present! Time is ticking away — you have exactly one week t
 
 All lucky champions will be asked to provide further details via email so they can receive a special gift from Apillon before Christmas — to put under the tree or to simply look awesome at Christmas dinner with your friends and family.
 
+
+
+---
 
 ### Terms and conditions
 
