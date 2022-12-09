@@ -13,8 +13,8 @@ Follow the steps below:
 1. Register an account on [app.apillon.io/register](app.apillon.io/register)
 2. Log in with your new account.
 3. Copy the referral code displayed at the bottom of the welcome page.
-4. Create a pull request with your Github account on the following repo.
-5. Include your referral code in the pull request.
+4. Create a new issue or pull request with your Github account on the following repo.
+5. Include your referral code in the issue or pull request.
 
 Eligiblity:
 - EU Countries
